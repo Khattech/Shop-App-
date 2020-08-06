@@ -1,0 +1,23 @@
+{
+  "name": "fakerapp",
+  "version": "1.0.0",
+  "description": "App displays Shops Customers and expenditures they have done using the Faker npm package",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "FAKER",
+    "NPM"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
